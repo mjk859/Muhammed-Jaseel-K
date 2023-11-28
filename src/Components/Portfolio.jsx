@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Netflix Showcase Page with Interactive Tabs",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A promotional webpage for Netflix featuring a dynamic showcase, interactive tabs, and detailed plan information.",
+    url: "https://mjk859.github.io/Netflix-clone/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Interactive Web Portal with Dynamic City Selection",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a responsive website featuring a dynamic city selection system, user-friendly registration forms, and a visually appealing interface using HTML, CSS, and JavaScript.",
+    url: "https://mjk859.github.io/MJK-associates/",
   },
   {
-    title: "My Resume Site",
+    title: "DevBlogs Hub: Empowering Developers Through Insights and Expertise",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Explore a diverse array of developer blogs covering JavaScript, DevOps, Cloud, Terraform, Architecture, and Scalability, curated for busy developers seeking valuable insights and practical knowledge in one centralized hub.",
+    url: "https://mjk859.github.io/Static-Webpages/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Personal Portfolio Showcase",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A stylish and responsive personal portfolio website featuring a unique blend of fonts, captivating cloud imagery, and a vibrant color scheme, showcasing skills, projects, and a contact section with an eye-catching call-to-action button.",
+    url: "https://mjk859.github.io/cvv-css/",
   },
 ];
 
