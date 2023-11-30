@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Netflix Showcase Page with Interactive Tabs",
+    title: "",
     description:
-      "A promotional webpage for Netflix featuring a dynamic showcase, interactive tabs, and detailed plan information.",
-    url: "https://mjk859.github.io/Netflix-clone/",
+      "",
+    url: "",
   },
   {
     title: "Interactive Web Portal with Dynamic City Selection",
